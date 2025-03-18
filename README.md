@@ -72,10 +72,15 @@ Application Areas :
 - Helps in secure, internal communications.
 
 Key Features : 
+
 ✔ Real-time Messaging: Users can communicate instantly.
+
 ✔ Multiple Client Support: Handles multiple users via multithreading.
+
 ✔ Graphical User Interface (GUI): Easy-to-use chat window with Java Swing.
+
 ✔ Message Broadcasting: Every message is sent to all connected clients.
+
 ✔ Scalable Architecture: Can be extended with authentication, private messaging, or file sharing.
 
 Output screenshots: 
