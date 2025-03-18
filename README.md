@@ -85,4 +85,10 @@ Key Features :
 
 Output screenshots: 
 
+1.
 
+![Image](https://github.com/user-attachments/assets/bd41474e-cca9-4c46-9f8d-86c48ecd46a5)
+
+2.
+
+![Image](https://github.com/user-attachments/assets/f02501f1-65ff-41a3-9648-1039ea898f72)
